@@ -1,0 +1,27 @@
+#image-holder {
+  background: url(clocks.jpg);
+  background-size: 1200px;
+  background-repeat: repeat;
+}
+
+.timer {
+  font-size: 60px;
+  max-width: 20%;
+  margin: 20px auto;
+  background-color: rgb(215, 217, 221);
+  border: 1px solid black;
+  border-radius: 15px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.controls {
+  text-align: center;
+  /* margin-top: 20px; */
+}
+
+.input-section {
+  text-align: center;
+  padding: 20px 0px;
+  font-family: arial, Arial, Helvetica, sans-serif;
+}
